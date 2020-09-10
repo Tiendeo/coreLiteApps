@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GovernorSwiftPackage",
+        "repositoryURL": "https://github.com/Tiendeo/governorApps.git",
+        "state": {
+          "branch": null,
+          "revision": "9f6f4d5fd87f3d6ace461f3bf2fb08af7c57c07c",
+          "version": "1.0.6-beta1"
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
+        "state": {
+          "branch": null,
+          "revision": "175eeb4618b0a6ef4d69a7409b6a74ddd235a093",
+          "version": "5.15.0"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "cce95dd704bc08cd3d69c087a05a6fc3118e2722",
+          "version": "4.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
