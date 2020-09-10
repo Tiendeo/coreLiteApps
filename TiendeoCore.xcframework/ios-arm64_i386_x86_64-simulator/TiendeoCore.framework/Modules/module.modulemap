@@ -1,4 +1,0 @@
-framework module TiendeoCore {
-  header "TiendeoCore-Swift.h"
-  requires objc
-}

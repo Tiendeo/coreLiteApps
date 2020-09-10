@@ -18,7 +18,7 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
         .package(url: "https://github.com/onevcat/Kingfisher.git", from: "5.15.0"),
-        .package(url: "https://github.com/Tiendeo/governorApps.git", from: "1.0.6-beta2"),
+        .package(url: "https://github.com/Tiendeo/governorApps.git", from: "1.0.6-beta6"),
         .package(url: "https://github.com/ReactiveX/RxSwift.git", from: "4.2.0")
 
         
