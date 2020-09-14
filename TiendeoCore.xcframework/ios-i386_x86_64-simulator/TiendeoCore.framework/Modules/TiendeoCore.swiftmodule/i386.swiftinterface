@@ -2048,7 +2048,7 @@ extension Sequence where Self.Element == CatalogSection {
   public func transformToUI(numPages: Swift.Int) -> [CatalogSectionViewEntity]
 }
 extension UIImageView {
-  public func downloadFrom(url: Swift.String, placeHolder: UIKit.UIImage? = nil, options: [Kingfisher.KingfisherOptionsInfoItem]? = nil, progressBlock: Kingfisher.DownloadProgressBlock? = nil, completionHandler: Kingfisher.CompletionHandler? = nil)
+  public func downloadFrom(url: Swift.String, placeHolder: UIKit.UIImage? = nil, options: [KingfisherOptionsInfoItem]? = nil, progressBlock: DownloadProgressBlock? = nil, completionHandler: CompletionHandler? = nil)
   public func downloadFrom(url: Swift.String, placeHolder: UIKit.UIImage? = nil, completionHandler: @escaping (UIKit.UIImage?) -> Swift.Void)
   public func downloadKeepingCurrentImageFrom(url: Swift.String)
 }
